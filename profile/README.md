@@ -12,12 +12,6 @@ O init.hub nasce com a missão de centralizar e organizar esse fluxo, facilitand
 
 
 
-## 📚 Documentação
-
-A documentação completa do nosso produto está em fase de desenvolvimento.
-
-
-
 ## 👥 Participantes
 
 - **Arthur Silva Dantas** — Desenvolvedor Front-end · [@ArthurSilvaDantas](https://github.com/ArthurSilvaDantas)
