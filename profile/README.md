@@ -12,6 +12,16 @@ O init.hub nasce com a missão de centralizar e organizar esse fluxo, facilitand
 
 
 
+## 📦 Repositório
+
+Este repositório foi originalmente destinado ao armazenamento do monorepo da aplicação init.hub, desenvolvida pela Comitiva Pantaneira.
+
+Ele foi transferido para a organização oficial do projeto no GitHub: 
+
+🔗 [Repositório Oficial](https://github.com/engsoft-pantanal-dev/inithub)
+
+
+
 ## 👥 Participantes
 
 - **Arthur Silva Dantas** — Desenvolvedor Front-end · [@ArthurSilvaDantas](https://github.com/ArthurSilvaDantas)
